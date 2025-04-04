@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Karolina 👋
 
-<!--
-**Karolina-Valeckaite/Karolina-Valeckaite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate individual with high hopes to enter the IT industry as a QA engineer.
 
-Here are some ideas to get you started:
+🔧 **Skills & Technologies**:
+- **Operating Systems**: Linux OS, Windows OS, Windows Server 2022
+- **Cloud**: Microsoft Azure (basics)
+- **Virtualization**: VirtualBox
+- **Cybersecurity**: Cybersecurity basics
+- **Directories & IT Management**: Active Directory, ITIL & ITSM
+- **Programming**: JavaScript (basics)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌍 Find me around the web 🌍
+- [LinkedIn](https://www.linkedin.com/in/karolina-valeckaite/)
+- [Instagram](https://www.instagram.com/cara.vwv/)
+
+---
+
+## 📫 How to reach me
+- Email: [valeckaitekarolina@gmail.com](mailto:valeckaitekarolina@gmail.com)
+
+---
+
+### ⚡ Fun fact
+I enjoy digital art, painting and travelling!
+
